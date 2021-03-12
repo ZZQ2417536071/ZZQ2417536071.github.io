@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2019/12/14/js%E4%B8%89%E5%A4%A7%E5%AE%B6%E6%97%8F/</loc>
-    <lastmod>2021-03-12</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/2020/03/03/%E5%8E%BB%E9%87%8D%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-03-12</lastmod>
-  </url>
-  <url>
     <loc>http://example.com/2020/03/14/%E6%B5%85%E8%B0%88%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96/</loc>
+    <lastmod>2021-03-12</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2020/04/09/%E6%B5%85%E8%B0%88TypeScript/</loc>
+    <lastmod>2021-03-12</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2019/07/14/js%E7%AE%80%E6%98%93%E8%BD%AE%E6%92%AD%E5%9B%BE/</loc>
     <lastmod>2021-03-12</lastmod>
   </url>
   <url>
@@ -25,7 +25,7 @@
     <lastmod>2021-03-12</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2020/04/09/%E6%B5%85%E8%B0%88TypeScript/</loc>
+    <loc>http://example.com/2019/12/14/js%E4%B8%89%E5%A4%A7%E5%AE%B6%E6%97%8F/</loc>
     <lastmod>2021-03-12</lastmod>
   </url>
   <url>
@@ -33,15 +33,15 @@
     <lastmod>2021-03-12</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2020/07/14/ES6%E6%96%B0%E7%89%B9%E6%80%A7/</loc>
-    <lastmod>2021-03-12</lastmod>
-  </url>
-  <url>
     <loc>http://example.com/2020/08/21/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86DOM-%E9%80%92%E5%BD%92%E4%B8%8E%E9%9D%9E%E9%80%92%E5%BD%92/</loc>
     <lastmod>2021-03-12</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2019/07/14/js%E7%AE%80%E6%98%93%E8%BD%AE%E6%92%AD%E5%9B%BE/</loc>
-    <lastmod>2021-03-11</lastmod>
+    <loc>http://example.com/2020/03/03/%E5%8E%BB%E9%87%8D%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2021-03-12</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2020/07/14/ES6%E6%96%B0%E7%89%B9%E6%80%A7/</loc>
+    <lastmod>2021-03-12</lastmod>
   </url>
 </urlset> 
